@@ -35,7 +35,7 @@ Dit vormt de basis voor mijn pentesting- en development-lab.
 - Het verschil tussen een host (Proxmox) en guests (VM's)
 
 ### Screenshots
-![Kali Desktop](Screenshots/Kali-Desktop.png) 
+![Kali Desktop](Screenshots/Kali-Desktop.png)
   
 ---
 
