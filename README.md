@@ -33,6 +33,9 @@ Dit vormt de basis voor mijn pentesting- en development-lab.
 ### Wat ik geleerd heb
 - Hoe je een bare-metal server installeert en configureert.
 - Het verschil tussen een host (Proxmox) en guests (VM's)
+
+### Screenshots
+![Kali Desktop](Screenshots/Kali-Desktop.png) 
   
 ---
 
